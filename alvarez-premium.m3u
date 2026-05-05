@@ -1,0 +1,101 @@
+#EXTM3U
+
+###########################################################
+### 🏀 NBA (USA – FHD/Estables)
+###########################################################
+#EXTINF:-1,NBA TV (FHD)
+https://iptv-org.github.io/streams/us/NBATV.m3u8
+#EXTINF:-1,TNT Sports USA (NBA)
+https://iptv-org.github.io/streams/us/TNT.m3u8
+#EXTINF:-1,ESPN (FHD)
+https://iptv-org.github.io/streams/us/ESPN.m3u8
+#EXTINF:-1,ESPN 2 (FHD)
+https://iptv-org.github.io/streams/us/ESPN2.m3u8
+
+###########################################################
+### ⚽ FÚTBOL / WORLD CUP / LIGAS (FHD)
+###########################################################
+#EXTINF:-1,FOX Sports 1 (FHD)
+https://iptv-org.github.io/streams/us/FS1.m3u8
+#EXTINF:-1,FOX Sports 2 (FHD)
+https://iptv-org.github.io/streams/us/FS2.m3u8
+#EXTINF:-1,Telemundo Deportes (USA – Español)
+https://iptv-org.github.io/streams/us/Telemundo.m3u8
+#EXTINF:-1,Univisión Deportes (USA – Español)
+https://iptv-org.github.io/streams/us/Univision.m3u8
+
+###########################################################
+### 🚗 AUTOS (FHD/4K)
+###########################################################
+#EXTINF:-1,MotorTrend (FHD)
+https://iptv-org.github.io/streams/us/MotorTrend.m3u8
+#EXTINF:-1,AutoVision
+https://iptv-org.github.io/streams/auto/AutoVision.m3u8
+#EXTINF:-1,Car TV
+https://iptv-org.github.io/streams/auto/CarTV.m3u8
+
+###########################################################
+### 🏍️ MOTOS / MOTOCROSS / EXTREMOS (FHD/4K)
+###########################################################
+#EXTINF:-1,Red Bull TV (4K – Deportes extremos)
+https://iptv-org.github.io/streams/extreme/RedBullTV.m3u8
+#EXTINF:-1,Extreme Sports Channel (FHD)
+https://iptv-org.github.io/streams/extreme/ExtremeSports.m3u8
+
+###########################################################
+### 🇺🇸 USA EN ESPAÑOL (FHD)
+###########################################################
+#EXTINF:-1,Univisión (FHD)
+https://iptv-org.github.io/streams/us/Univision.m3u8
+#EXTINF:-1,Telemundo (FHD)
+https://iptv-org.github.io/streams/us/Telemundo.m3u8
+#EXTINF:-1,UniMás (FHD)
+https://iptv-org.github.io/streams/us/Unimas.m3u8
+#EXTINF:-1,Estrella TV (FHD)
+https://iptv-org.github.io/streams/us/EstrellaTV.m3u8
+
+###########################################################
+### 🇵🇦 PANAMÁ (TOP)
+###########################################################
+#EXTINF:-1,TVN Panamá
+https://iptv-org.github.io/streams/pa/TVN.m3u8
+#EXTINF:-1,Telemetro Panamá
+https://iptv-org.github.io/streams/pa/Telemetro.m3u8
+
+###########################################################
+### 🇻🇪 VENEZUELA (TOP)
+###########################################################
+#EXTINF:-1,Venevisión
+https://iptv-org.github.io/streams/ve/Venevision.m3u8
+#EXTINF:-1,Televen
+https://iptv-org.github.io/streams/ve/Televen.m3u8
+#EXTINF:-1,Globovisión
+https://iptv-org.github.io/streams/ve/Globovision.m3u8
+
+###########################################################
+### 🇲🇽 MÉXICO (SOLO LOS MEJORES – FHD)
+###########################################################
+#EXTINF:-1,Azteca 7 (FHD)
+https://iptv-org.github.io/streams/mx/Azteca7.m3u8
+#EXTINF:-1,Las Estrellas (FHD)
+https://iptv-org.github.io/streams/mx/LasEstrellas.m3u8
+
+###########################################################
+### 🎬 PELÍCULAS EN ESPAÑOL (FHD)
+###########################################################
+#EXTINF:-1,Cine Latino
+https://iptv-org.github.io/streams/movies/CineLatino.m3u8
+#EXTINF:-1,Film&Arts
+https://iptv-org.github.io/streams/movies/FilmArts.m3u8
+#EXTINF:-1,Retro TV (Clásicos)
+https://iptv-org.github.io/streams/movies/RetroTV.m3u8
+
+###########################################################
+### 📺 SERIES EN ESPAÑOL (FHD)
+###########################################################
+#EXTINF:-1,FX Latino
+https://iptv-org.github.io/streams/series/FXLatino.m3u8
+#EXTINF:-1,Sony Channel Latino
+https://iptv-org.github.io/streams/series/SonyLatino.m3u8
+#EXTINF:-1,A&E Latino
+https://iptv-org.github.io/streams/series/AELatino.m3u8
