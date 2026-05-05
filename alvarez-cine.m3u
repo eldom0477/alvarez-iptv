@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", Cine Latino
+https://iptv-org.github.io/streamlink/cinelatino.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", Cine Sony
+https://iptv-org.github.io/streamlink/cinesony.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", Golden
+https://iptv-org.github.io/streamlink/golden.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", Golden Edge
+https://iptv-org.github.io/streamlink/goldenedge.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", De Película
+https://iptv-org.github.io/streamlink/depelicula.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", De Película Plus
+https://iptv-org.github.io/streamlink/depeliculaplus.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", Studio Universal
+https://iptv-org.github.io/streamlink/studiouniversal.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", Universal Cinema
+https://iptv-org.github.io/streamlink/universalcinema.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", Paramount Channel
+https://iptv-org.github.io/streamlink/paramount.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", AMC Latino
+https://iptv-org.github.io/streamlink/amc.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", Space
+https://iptv-org.github.io/streamlink/space.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", TNT
+https://iptv-org.github.io/streamlink/tnt.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", FX Movies
+https://iptv-org.github.io/streamlink/fxmovies.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", Multipremier
+https://iptv-org.github.io/streamlink/multipremier.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", Film&Arts
+https://iptv-org.github.io/streamlink/filmarts.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", Retro TV
+https://iptv-org.github.io/streamlink/retro.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", Az Cinema
+https://iptv-org.github.io/streamlink/azcinema.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="", TVC Cine Mexicano
+https://iptv-org.github.io/streamlink/tvccinemexicano.m3u8
