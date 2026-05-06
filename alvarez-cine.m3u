@@ -1,5 +1,7 @@
 #EXTM3U
 
+# ======== CINE LATINO / ESPAÑOL ========
+
 #EXTINF:-1 group-title="Cine" tvg-logo="", CineClásico TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=408
 
@@ -27,11 +29,10 @@ https://d1ntj3q3x3b7xe.cloudfront.net/playlist-latino.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="", Pongalo MovieClub
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1033
 
-#EXTINF:-1 group-title="Cine" tvg-logo="", Pongalo NovelaClub
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1032
-
 #EXTINF:-1 group-title="Cine" tvg-logo="", Classic Movies Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1362
+
+# ======== CINE INTERNACIONAL ========
 
 #EXTINF:-1 group-title="Cine" tvg-logo="", Midnight Pulp Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-midnightpulp/CDN/playlist.m3u8
